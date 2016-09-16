@@ -16,7 +16,7 @@ The website you can check here : http://cograph123.mybluemix.net/login  (with th
 
 
 
-###2016.9.28
+###2016.9.16
 
 All right, I finish the really basic one about creat the website and input into the database. 
 
